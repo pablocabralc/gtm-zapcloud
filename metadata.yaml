@@ -1,0 +1,5 @@
+﻿homepage: "https://www.pablocabral.com.br/zapcloud"
+documentation: "https://github.com/pablocabralc/gtm-zapcloud/wiki/FAQ"
+versions:
+  - sha: c89eb7a9621c48f1e6b1646dc7e05afdca2a0156
+    changeNotes: Versão Inicial.
